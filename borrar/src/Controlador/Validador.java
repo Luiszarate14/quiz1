@@ -15,6 +15,7 @@ import java.util.regex.Pattern;
  * @author luisza
  */
 public class Validador {
+    // Las expresiones regulares son muy útiles así que estudienlas bien :)
     private static String numeropattern = "\\d{1,3}(?:\\s*\\,?\\s*\\d{3})*(?:\\.\\d+)?"; 
     private static String operacionespattern = "[\\+|\\-|\\*|/]";
     private Pattern patron_numero = null;
