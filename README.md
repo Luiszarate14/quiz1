@@ -1,5 +1,3 @@
-# quiz1
-
 Enunciado
 =========
 
